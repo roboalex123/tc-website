@@ -9,7 +9,7 @@ const logos = [
   {
     label: "Tutorial Center",
     mainText:
-      "We are proud to share the work of our peer tutors and the Clovis Community College Tutorial Center at NCWCA.",
+      "We are proud to share the work of our peer tutors and the Clovis Community College Tutorial Center at the NCWCA.",
     alt: "Tutorial Center logo",
     src: "./tc-logo.png",
   },
